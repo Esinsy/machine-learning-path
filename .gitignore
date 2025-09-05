@@ -11,3 +11,6 @@ venv/
 
 # macOS
 .DS_Store
+
+# do not track local notebooks
+*.ipynb
